@@ -4,8 +4,8 @@
   "pub_date": "2026-07-08T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFpPSjBmNXZpZnUwK1BQUGpTRnE5RDNuYnZaRmt5TEF0NVhxYk5vblJKb2ZtWHEwd05keS9MNE1vMkYyaFpiTWQ3bkVVQjFqTENLS21tdENqUmM1OVo3aFZOSU5ab0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTQzOTkwCWZpbGU6UXVvdGVHZW5fMC4xLjFfeDY0LXNldHVwLmV4ZQoxZUZQemJQdHcrT3pJS3A1enc1MW5OV2l5THVEYVd3QmJaeFFRblVuOUhsdG5uSjNhNzFJdDdwVVUxMjRlUExIVU45ZS8yNThGRkc0VmQydnRFT2xDdz09Cg==",
-      "url": "https://github.com/Hurtz27/quotegen-releases/releases/download/v0.1.1/QuoteGen_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK3Jtck04cTlDS3AydVJMT0xIMTJrejN6a2kxSUFHc3lWYnBkQmFQN3NmZ0JoNFZ2VlBYSFVzbDhZdUJTUkl0bjJIbkJOa1dMTGR3c0gvQnNzQy8xTDhaUjJuSmwrTVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTU0MDY1CWZpbGU6UXVvdGVHZW4yXzAuMS4yX3g2NF9lbi1VUy5tc2kKSlMyVnZqWWswRFk0TTRxT3RWcFpJYkI0UXd1UTB5MkVlME1ONEt4QzRlYjBjbjg2QVIxNEdPNFVGMEthaEptTUxqZFl5T2V6NVl4aVpKeU0vWXd0QUE9PQo=",
+      "url": "https://github.com/Hurtz27/quotegen-releases/releases/download/v0.1.2/QuoteGen2_0.1.2_x64_en-US.msi"
     }
   }
 }
