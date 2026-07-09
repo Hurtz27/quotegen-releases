@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Testing auto updates!",
-  "pub_date": "2026-07-08T12:00:00Z",
+  "version": "0.1.3",
+  "notes": "Prueba mágica del OTA Updater desde v0.1.2 a v0.1.3",
+  "pub_date": "2026-07-08T18:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK3Jtck04cTlDS3FBdmVSYUVCdzFuOVhHdEFwZmhrdWhkTGtNckd0MkQ1NXhBVTduZFpvbTlmRlRmdHdPMElqa2ltNy82SjVUSXpVTzhDSjAxSVQrdm9UQjZ0ZmNVbkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTU1NjU2CWZpbGU6UXVvdGVHZW4yXzAuMS4yX3g2NF9lbi1VUy5tc2kKMTc1bjBaNmx6ZmJraEdCZmZraE9XWWhPcXlET3lyVUFvTitmZXlkbWZGWlhrc1JKanJRSmd1Vk44amhPOTU4K3BQUzdDUjM0OXUzTGpnVHMwLzhyREE9PQo=",
-      "url": "https://github.com/Hurtz27/quotegen-releases/releases/download/v0.1.2/QuoteGen2_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK3Jtck04cTlDS2l3RHlBR1MzQXlhKzljM3o4TlVKUHRmM3FmUmxnVS9WcE5LUjBYZHVzUURPMHQ0VnFUQVRESG96MHN2UzIrZEQ0cXZQUUpXMnUvR1BzUU9TRE94R2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTU2MjIyCWZpbGU6UXVvdGVHZW4yXzAuMS4zX3g2NF9lbi1VUy5tc2kKcE5IZVh4SkM1RVNhOGVKYmtVRHc4Rmo1SUN1UFBKRldUYmJUdHdEYldEVGpLa04rb3RPUklBQnlSVWRCQ3o2bi9oRWRabDVsRGZBU1l3eFptR0FtQnc9PQo=",
+      "url": "https://github.com/Hurtz27/quotegen-releases/releases/download/v0.1.3/QuoteGen2_0.1.3_x64_en-US.msi"
     }
   }
 }
