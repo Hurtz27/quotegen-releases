@@ -1,10 +1,10 @@
 {
   "version": "0.1.4",
-  "notes": "Prueba mágica del OTA Updater desde v0.1.2 a v0.1.3",
-  "pub_date": "2026-07-08T18:15:00Z",
+  "notes": "Important security update and OTA bridge.",
+  "pub_date": "2026-07-09T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFpPSjBmNXZpZmlSYXVwcTlzOTk5aTdjOGVBUURvTHltcDZZejRoZWlFd3V6ZHQ1RUxxemkxM3hVU1U1aXE4VTM0czY0YlN1b2RQZzZqVlNaTUpDcERXT0pnUGx5bFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjM5MDY2CWZpbGU6UXVvdGVHZW4yXzAuMS40X3g2NF9lbi1VUy5tc2kKV0Z3WUFPOEpMSHFJVUtzSkNsK0tqOFRxZGs1QTNyekxUa0JDYTlVZHEzSVV3SVhaaDRZQTBPdEQ0ZE93RWVmbURmbjZlZ00yMkFBWGMzRDhibHE3REE9PQo==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK3Jtck04cTlDS3ZaeW0xQXp5KzhGL1Q1ZE40anYvWW9VL3EzR2F0dWg2WmdETkttRzkyeXZmRlMyZTd1WkcveVlYMHpvcGNvUzZRNlpicW9vdzQ2dFh5WUpKcWsyV2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjM5NzkzCWZpbGU6UXVvdGVHZW4yXzAuMS40X3g2NF9lbi1VUy5tc2kKTmsrODViZFJVaC9EUVBEcUdRU0tKdW50UHJvRTRTM0hjSjZnYlJKZ2xoczJCRGhNL3JmN080TjJnYVFBZmE3cXJzWnBDZm9mOUhWR0JZZXpNT0tmQkE9PQo=",
       "url": "https://github.com/Hurtz27/quotegen-releases/releases/download/v0.1.4/QuoteGen2_0.1.4_x64_en-US.msi"
     }
   }
