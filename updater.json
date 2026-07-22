@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Important security update and OTA bridge.",
-  "pub_date": "2026-07-09T18:00:00Z",
+  "version": "1.0.0",
+  "notes": "Major v1.0.0 update! Added Vertical Kanban, Native Confirmations, MultiSelect Filters, and fixed Email Translations.",
+  "pub_date": "2026-07-22T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK3Jtck04cTlDS3ZaeW0xQXp5KzhGL1Q1ZE40anYvWW9VL3EzR2F0dWg2WmdETkttRzkyeXZmRlMyZTd1WkcveVlYMHpvcGNvUzZRNlpicW9vdzQ2dFh5WUpKcWsyV2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjM5NzkzCWZpbGU6UXVvdGVHZW4yXzAuMS40X3g2NF9lbi1VUy5tc2kKTmsrODViZFJVaC9EUVBEcUdRU0tKdW50UHJvRTRTM0hjSjZnYlJKZ2xoczJCRGhNL3JmN080TjJnYVFBZmE3cXJzWnBDZm9mOUhWR0JZZXpNT0tmQkE9PQo=",
-      "url": "https://github.com/Hurtz27/quotegen-releases/releases/download/v0.1.4/QuoteGen2_0.1.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFpPSjBmNXZpZm5ieVBtYkl1SUord1dkQWZTSi8wOHJ3VnZIZTJqYUJ4QzBNVnFzc0JoWTRwR3ZRTGZsanZ4a0RJUHRoZ25TUHJXbkl5bWdEQjd2K0t1eWZ2WHZZQUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQ2ODU5CWZpbGU6UXVvdGVHZW4yXzEuMC4wX3g2NF9lbi1VUy5tc2kKM2ErbGxMQ2NNeDNSanc1eURLNUNZTEZxYVhZOW01dEJ1cmJWWStYRFdxU2I2RWdiVktWTExVT2pKVVN3OC9jeEtvZVZpSkV4NjdqMlkydUNSK1dhRHc9PQo=",
+      "url": "https://github.com/Hurtz27/quotegen-releases/releases/download/v1.0.0/QuoteGen2_1.0.0_x64_en-US.msi"
     }
   }
 }
